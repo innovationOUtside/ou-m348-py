@@ -21,6 +21,10 @@ If things don't appear to have installed, try the installation with degub report
 
 (If you have several Pythibn environments available, you may need to ensure you are using the correct `pip` installer. You're on your own with this... that's why we suggest using officially supported environments...)
 
+If you run into problems or issues, raise them as an issue in the repository rather than the forums.
+
+PRs / fixes welcome for any issues.
+
 Launch the environment with:
 
 `jupyter nbclassic`
