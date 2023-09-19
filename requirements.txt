@@ -1,0 +1,6 @@
+nbclassic
+nbzip
+jupyter_contrib_nbextensions
+nb-extension-empinken
+jupyter_nbextensions_configurator
+nb_cell_execution_status
