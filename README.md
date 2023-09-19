@@ -19,7 +19,7 @@ If things don't appear to have installed, try the installation with `--verbose` 
 
 `pip install --verbose https://github.com/innovationOUtside/ou-m348-py/archive/refs/heads/main.zip`
 
-(If you have several Pythibn environments available, you may need to ensure you are using the correct `pip` installer. You're on your own with this... that's why we suggest using officially supported environments...)
+(If you have several Python environments available, you may need to ensure you are using the correct `pip` installer. You're on your own with this... that's why we suggest using officially supported environments...)
 
 If you run into problems or issues, raise them as an issue in the repository rather than the forums.
 
