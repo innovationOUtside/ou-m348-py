@@ -9,13 +9,13 @@ __The recommended way of accessing the M348 computing environment is to access e
 Before installing this package, you will need to:
 
 - [download and install R](https://cran.rstudio.com/)
-- ensure you have a Pyhton environment available
+- ensure you have a Python environment available
 
-From a termainal command line, run the command:
+From a terminal / command prompt command line, run the command:
 
 `pip install https://github.com/innovationOUtside/ou-m348-py/archive/refs/heads/main.zip`
 
-If things don't appear to have installed, try the installation with degub reporting:
+If things don't appear to have installed, try the installation with `--verbose` debug reporting enable:
 
 `pip install --verbose https://github.com/innovationOUtside/ou-m348-py/archive/refs/heads/main.zip`
 
