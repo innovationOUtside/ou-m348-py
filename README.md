@@ -14,3 +14,13 @@ Before installing this package, you will need to:
 From a termainal command line, run the command:
 
 `pip install https://github.com/innovationOUtside/ou-m348-py/archive/refs/heads/main.zip`
+
+If things don't appear to have installed, try the installation with degub reporting:
+
+`pip install --verbose https://github.com/innovationOUtside/ou-m348-py/archive/refs/heads/main.zip`
+
+(If you have several Pythibn environments available, you may need to ensure you are using the correct `pip` installer. You're on your own with this... that's why we suggest using officially supported environments...)
+
+Launch the environment with:
+
+`jupyter nbclassic`
